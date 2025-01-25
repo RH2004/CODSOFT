@@ -117,9 +117,9 @@ pip install -r requirements.txt
 ## Results Summary
 | Project                  | Best Model       | Accuracy | Precision | Recall | F1-Score |
 |--------------------------|------------------|----------|-----------|--------|----------|
-| Titanic Survival         | Random Forest   | ~85%     | ~84%      | ~83%   | ~84%     |
-| Credit Card Fraud        | Random Forest   | ~99%     | ~94%      | ~96%   | ~95%     |
-| Iris Flower Classification | Random Forest | ~95%     | ~95%      | ~95%   | ~95%     |
+| Titanic Survival         | Random Forest   | ~83%     | ~84%      | ~83%   | ~84%     |
+| Credit Card Fraud        | Logistic regression    | ~97%     | ~94%      | ~96%   | ~95%     |
+| Iris Flower Classification | Support Vector Machine | ~99%     | ~99%      | ~99%   | ~99%     |
 
 ---
 
